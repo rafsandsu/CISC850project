@@ -1,0 +1,1886 @@
+04-21-1991, 9:09, Pre-breakfast blood glucose measurement, 100
+
+04-21-1991, 9:09, Regular insulin dose, 009
+
+04-21-1991, 9:09, NPH insulin dose, 013
+
+04-21-1991, 17:08, Pre-supper blood glucose measurement, 119
+
+04-21-1991, 17:08, Regular insulin dose, 007
+
+04-21-1991, 22:51, Unspecified blood glucose measurement, 123
+
+04-22-1991, 7:35, Pre-breakfast blood glucose measurement, 216
+
+04-22-1991, 7:35, Regular insulin dose, 010
+
+04-22-1991, 7:35, NPH insulin dose, 013
+
+04-22-1991, 13:40, Regular insulin dose, 002
+
+04-22-1991, 16:56, Pre-supper blood glucose measurement, 211
+
+04-22-1991, 16:56, Regular insulin dose, 007
+
+04-23-1991, 7:25, Pre-breakfast blood glucose measurement, 257
+
+04-23-1991, 7:25, Regular insulin dose, 011
+
+04-23-1991, 7:25, NPH insulin dose, 013
+
+04-23-1991, 17:25, Pre-supper blood glucose measurement, 129
+
+04-23-1991, 17:25, Regular insulin dose, 007
+
+04-24-1991, 7:52, Pre-breakfast blood glucose measurement, 239
+
+04-24-1991, 7:52, Regular insulin dose, 010
+
+04-24-1991, 7:52, NPH insulin dose, 014
+
+04-24-1991, 12:00, Regular insulin dose, 004
+
+04-24-1991, 17:10, Pre-supper blood glucose measurement, 129
+
+04-24-1991, 22:09, Unspecified blood glucose measurement, 340
+
+04-24-1991, 22:09, Regular insulin dose, 005
+
+04-25-1991, 7:29, Pre-breakfast blood glucose measurement, 067
+
+04-25-1991, 7:29, Regular insulin dose, 009
+
+04-25-1991, 7:29, NPH insulin dose, 014
+
+04-25-1991, 12:49, Regular insulin dose, 004
+
+04-25-1991, 17:24, Pre-supper blood glucose measurement, 206
+
+04-25-1991, 17:24, Regular insulin dose, 007
+
+04-25-1991, 21:54, Unspecified blood glucose measurement, 288
+
+04-25-1991, 21:54, Regular insulin dose, 002
+
+04-26-1991, 5:52, Pre-breakfast blood glucose measurement, 077
+
+04-26-1991, 5:52, Regular insulin dose, 009
+
+04-26-1991, 5:52, NPH insulin dose, 014
+
+04-26-1991, 13:06, Regular insulin dose, 005
+
+04-26-1991, 17:26, Pre-supper blood glucose measurement, 228
+
+04-26-1991, 17:26, Regular insulin dose, 007
+
+04-27-1991, 10:03, Pre-breakfast blood glucose measurement, 259
+
+04-27-1991, 10:03, Regular insulin dose, 010
+
+04-27-1991, 10:03, NPH insulin dose, 014
+
+04-27-1991, 17:20, Pre-supper blood glucose measurement, 256
+
+04-27-1991, 17:20, Regular insulin dose, 008
+
+04-28-1991, 8:42, Pre-breakfast blood glucose measurement, 109
+
+04-28-1991, 8:42, Regular insulin dose, 010
+
+04-28-1991, 8:42, NPH insulin dose, 014
+
+04-28-1991, 17:06, Pre-supper blood glucose measurement, 096
+
+04-28-1991, 17:06, Regular insulin dose, 007
+
+04-28-1991, 22:30, Unspecified blood glucose measurement, 200
+
+04-29-1991, 7:39, Pre-breakfast blood glucose measurement, 128
+
+04-29-1991, 7:39, Regular insulin dose, 009
+
+04-29-1991, 7:39, NPH insulin dose, 014
+
+04-29-1991, 12:00, Hypoglycemic symptoms, 000
+
+04-29-1991, 13:38, Pre-lunch blood glucose measurement, 192
+
+04-29-1991, 13:38, Regular insulin dose, 005
+
+04-29-1991, 16:50, Pre-supper blood glucose measurement, 263
+
+04-29-1991, 16:50, Regular insulin dose, 008
+
+04-29-1991, 22:28, Unspecified blood glucose measurement, 081
+
+04-30-1991, 7:40, Pre-breakfast blood glucose measurement, 179
+
+04-30-1991, 7:40, Regular insulin dose, 010
+
+04-30-1991, 7:40, NPH insulin dose, 014
+
+04-30-1991, 12:55, Pre-lunch blood glucose measurement, 088
+
+04-30-1991, 12:55, Regular insulin dose, 004
+
+04-30-1991, 17:40, Pre-supper blood glucose measurement, 185
+
+04-30-1991, 17:40, Regular insulin dose, 007
+
+04-30-1991, 22:00, Hypoglycemic symptoms, 000
+
+04-30-1991, 23:06, Unspecified blood glucose measurement, 104
+
+05-01-1991, 7:38, Pre-breakfast blood glucose measurement, 086
+
+05-01-1991, 7:38, Regular insulin dose, 010
+
+05-01-1991, 7:38, NPH insulin dose, 014
+
+05-01-1991, 12:00, Hypoglycemic symptoms, 000
+
+05-01-1991, 12:14, Pre-lunch blood glucose measurement, 060
+
+05-01-1991, 12:14, Regular insulin dose, 004
+
+05-01-1991, 17:23, Regular insulin dose, 007
+
+05-01-1991, 17:23, NPH insulin dose, 163
+
+05-02-1991, 7:39, Pre-breakfast blood glucose measurement, 147
+
+05-02-1991, 7:39, Regular insulin dose, 010
+
+05-02-1991, 7:39, NPH insulin dose, 013
+
+05-02-1991, 13:30, Regular insulin dose, 005
+
+05-02-1991, 13:30, Hypoglycemic symptoms, 000
+
+05-02-1991, 17:45, Pre-supper blood glucose measurement, 207
+
+05-02-1991, 17:45, Regular insulin dose, 007
+
+05-03-1991, 3:00, Hypoglycemic symptoms, 000
+
+05-03-1991, 7:48, Pre-breakfast blood glucose measurement, 305
+
+05-03-1991, 7:48, Regular insulin dose, 010
+
+05-03-1991, 7:48, NPH insulin dose, 014
+
+05-03-1991, 13:23, Pre-lunch blood glucose measurement, 081
+
+05-03-1991, 13:23, Regular insulin dose, 005
+
+05-03-1991, 17:14, Pre-supper blood glucose measurement, 151
+
+05-03-1991, 17:14, Regular insulin dose, 007
+
+05-03-1991, 22:08, Unspecified blood glucose measurement, 085
+
+05-04-1991, 6:50, Pre-breakfast blood glucose measurement, 133
+
+05-04-1991, 6:50, Regular insulin dose, 010
+
+05-04-1991, 6:50, NPH insulin dose, 014
+
+05-04-1991, 12:00, Regular insulin dose, 005
+
+05-04-1991, 18:00, Regular insulin dose, 007
+
+05-04-1991, 21:40, Unspecified blood glucose measurement, 063
+
+05-05-1991, 2:00, Hypoglycemic symptoms, 000
+
+05-05-1991, 9:10, Pre-breakfast blood glucose measurement, 183
+
+05-05-1991, 9:10, Regular insulin dose, 010
+
+05-05-1991, 9:10, NPH insulin dose, 014
+
+05-05-1991, 12:00, Regular insulin dose, 005
+
+05-05-1991, 16:00, Hypoglycemic symptoms, 000
+
+05-05-1991, 18:00, Regular insulin dose, 007
+
+05-05-1991, 22:18, Unspecified blood glucose measurement, 282
+
+05-05-1991, 22:18, Regular insulin dose, 002
+
+05-06-1991, 7:42, Pre-breakfast blood glucose measurement, 091
+
+05-06-1991, 7:42, Regular insulin dose, 010
+
+05-06-1991, 7:42, NPH insulin dose, 014
+
+05-06-1991, 13:45, Regular insulin dose, 005
+
+05-06-1991, 16:55, Pre-supper blood glucose measurement, 229
+
+05-06-1991, 16:55, Regular insulin dose, 007
+
+05-07-1991, 7:37, Pre-breakfast blood glucose measurement, 121
+
+05-07-1991, 7:37, Regular insulin dose, 010
+
+05-07-1991, 7:37, NPH insulin dose, 014
+
+05-07-1991, 12:00, Regular insulin dose, 005
+
+05-07-1991, 18:00, Regular insulin dose, 007
+
+05-08-1991, 7:43, Pre-breakfast blood glucose measurement, 251
+
+05-08-1991, 7:43, Regular insulin dose, 010
+
+05-08-1991, 7:43, NPH insulin dose, 014
+
+05-08-1991, 11:50, Regular insulin dose, 005
+
+05-08-1991, 17:30, Pre-supper blood glucose measurement, 135
+
+05-08-1991, 17:30, Regular insulin dose, 007
+
+05-08-1991, 22:45, Unspecified blood glucose measurement, 129
+
+05-09-1991, 7:33, Pre-breakfast blood glucose measurement, 087
+
+05-09-1991, 7:33, Regular insulin dose, 009
+
+05-09-1991, 7:33, NPH insulin dose, 014
+
+05-09-1991, 12:00, Regular insulin dose, 004
+
+05-09-1991, 18:00, Regular insulin dose, 007
+
+05-10-1991, 7:40, Pre-breakfast blood glucose measurement, 255
+
+05-10-1991, 7:40, Regular insulin dose, 010
+
+05-10-1991, 7:40, NPH insulin dose, 014
+
+05-10-1991, 13:30, Regular insulin dose, 004
+
+05-10-1991, 14:15, Hypoglycemic symptoms, 000
+
+05-10-1991, 17:30, Pre-supper blood glucose measurement, 343
+
+05-10-1991, 17:30, Regular insulin dose, 008
+
+05-10-1991, 20:54, Unspecified blood glucose measurement, 097
+
+05-11-1991, 8:30, Pre-breakfast blood glucose measurement, 136
+
+05-11-1991, 8:30, Regular insulin dose, 010
+
+05-11-1991, 8:30, NPH insulin dose, 014
+
+05-11-1991, 13:40, Regular insulin dose, 004
+
+05-11-1991, 17:36, Pre-supper blood glucose measurement, 082
+
+05-11-1991, 17:36, Regular insulin dose, 007
+
+05-11-1991, 22:02, Unspecified blood glucose measurement, 110
+
+05-12-1991, 9:46, Pre-breakfast blood glucose measurement, 236
+
+05-12-1991, 9:46, Regular insulin dose, 010
+
+05-12-1991, 9:46, NPH insulin dose, 014
+
+05-12-1991, 12:00, Regular insulin dose, 004
+
+05-12-1991, 17:00, Pre-supper blood glucose measurement, 175
+
+05-12-1991, 17:00, Regular insulin dose, 007
+
+05-13-1991, 7:50, Pre-breakfast blood glucose measurement, 108
+
+05-13-1991, 7:50, Regular insulin dose, 010
+
+05-13-1991, 7:50, NPH insulin dose, 014
+
+05-13-1991, 12:00, Regular insulin dose, 005
+
+05-13-1991, 17:00, Pre-supper blood glucose measurement, 300
+
+05-13-1991, 17:00, Regular insulin dose, 008
+
+05-13-1991, 22:17, Unspecified blood glucose measurement, 076
+
+05-14-1991, 7:36, Pre-breakfast blood glucose measurement, 065
+
+05-14-1991, 7:36, Regular insulin dose, 009
+
+05-14-1991, 7:36, NPH insulin dose, 014
+
+05-14-1991, 12:00, Regular insulin dose, 005
+
+05-14-1991, 12:30, Hypoglycemic symptoms, 000
+
+05-14-1991, 17:26, Pre-supper blood glucose measurement, 043
+
+05-14-1991, 17:26, Regular insulin dose, 007
+
+05-14-1991, 22:30, Unspecified blood glucose measurement, 130
+
+05-15-1991, 7:45, Pre-breakfast blood glucose measurement, 183
+
+05-15-1991, 7:45, Regular insulin dose, 010
+
+05-15-1991, 7:45, NPH insulin dose, 014
+
+05-15-1991, 11:55, Regular insulin dose, 006
+
+05-15-1991, 17:09, Pre-supper blood glucose measurement, 182
+
+05-15-1991, 17:09, Regular insulin dose, 007
+
+05-16-1991, 7:30, Pre-breakfast blood glucose measurement, 117
+
+05-16-1991, 7:30, Regular insulin dose, 010
+
+05-16-1991, 7:30, NPH insulin dose, 014
+
+05-16-1991, 17:41, Pre-supper blood glucose measurement, 075
+
+05-16-1991, 17:41, Regular insulin dose, 007
+
+05-16-1991, 22:41, Unspecified blood glucose measurement, 069
+
+05-17-1991, 7:35, Pre-breakfast blood glucose measurement, 076
+
+05-17-1991, 7:35, Regular insulin dose, 009
+
+05-17-1991, 7:35, NPH insulin dose, 014
+
+05-17-1991, 12:00, Regular insulin dose, 005
+
+05-17-1991, 17:17, Pre-supper blood glucose measurement, 201
+
+05-17-1991, 17:17, Regular insulin dose, 007
+
+05-18-1991, 8:55, Pre-breakfast blood glucose measurement, 244
+
+05-18-1991, 8:55, Regular insulin dose, 010
+
+05-18-1991, 8:55, NPH insulin dose, 014
+
+05-18-1991, 11:40, Regular insulin dose, 005
+
+05-18-1991, 16:45, Pre-supper blood glucose measurement, 104
+
+05-18-1991, 16:45, Regular insulin dose, 007
+
+05-19-1991, 9:42, Pre-breakfast blood glucose measurement, 125
+
+05-19-1991, 9:42, Regular insulin dose, 010
+
+05-19-1991, 9:42, NPH insulin dose, 014
+
+05-19-1991, 12:00, Regular insulin dose, 004
+
+05-19-1991, 17:33, Pre-supper blood glucose measurement, 092
+
+05-19-1991, 17:33, Regular insulin dose, 007
+
+05-20-1991, 7:31, Pre-breakfast blood glucose measurement, 087
+
+05-20-1991, 7:31, Regular insulin dose, 009
+
+05-20-1991, 7:31, NPH insulin dose, 014
+
+05-20-1991, 12:00, Regular insulin dose, 005
+
+05-20-1991, 17:12, Pre-supper blood glucose measurement, 091
+
+05-20-1991, 17:12, Regular insulin dose, 007
+
+05-21-1991, 7:34, Pre-breakfast blood glucose measurement, 122
+
+05-21-1991, 7:34, Regular insulin dose, 009
+
+05-21-1991, 7:34, NPH insulin dose, 014
+
+05-21-1991, 11:50, Pre-lunch blood glucose measurement, 162
+
+05-21-1991, 11:50, Regular insulin dose, 002
+
+05-21-1991, 18:00, Regular insulin dose, 007
+
+05-22-1991, 7:32, Pre-breakfast blood glucose measurement, 077
+
+05-22-1991, 7:32, Regular insulin dose, 009
+
+05-22-1991, 7:32, NPH insulin dose, 014
+
+05-22-1991, 13:35, Regular insulin dose, 004
+
+05-22-1991, 17:00, Pre-supper blood glucose measurement, 270
+
+05-22-1991, 17:00, Regular insulin dose, 008
+
+05-23-1991, 7:35, Pre-breakfast blood glucose measurement, 297
+
+05-23-1991, 7:35, Regular insulin dose, 010
+
+05-23-1991, 7:35, NPH insulin dose, 014
+
+05-23-1991, 15:00, Pre-lunch blood glucose measurement, 148
+
+05-23-1991, 17:40, Pre-supper blood glucose measurement, 091
+
+05-23-1991, 17:40, Regular insulin dose, 007
+
+05-23-1991, 22:38, Unspecified blood glucose measurement, 079
+
+05-24-1991, 7:43, Pre-breakfast blood glucose measurement, 246
+
+05-24-1991, 7:43, Regular insulin dose, 010
+
+05-24-1991, 7:43, NPH insulin dose, 014
+
+05-24-1991, 17:20, Pre-supper blood glucose measurement, 256
+
+05-24-1991, 17:20, Regular insulin dose, 008
+
+05-24-1991, 22:17, Unspecified blood glucose measurement, 165
+
+05-25-1991, 9:05, Pre-breakfast blood glucose measurement, 149
+
+05-25-1991, 9:05, Regular insulin dose, 010
+
+05-25-1991, 9:05, NPH insulin dose, 014
+
+05-25-1991, 14:00, Hypoglycemic symptoms, 000
+
+05-25-1991, 17:00, Pre-supper blood glucose measurement, 108
+
+05-25-1991, 17:00, Regular insulin dose, 007
+
+05-25-1991, 23:00, Unspecified blood glucose measurement, 232
+
+05-25-1991, 23:00, Regular insulin dose, 002
+
+05-26-1991, 9:17, Pre-breakfast blood glucose measurement, 312
+
+05-26-1991, 9:17, Regular insulin dose, 011
+
+05-26-1991, 9:17, NPH insulin dose, 014
+
+05-26-1991, 16:26, Pre-supper blood glucose measurement, 115
+
+05-26-1991, 16:26, Regular insulin dose, 007
+
+05-26-1991, 22:06, Unspecified blood glucose measurement, 180
+
+05-26-1991, 22:06, Regular insulin dose, 002
+
+05-27-1991, 8:50, Pre-breakfast blood glucose measurement, 295
+
+05-27-1991, 8:50, Regular insulin dose, 011
+
+05-27-1991, 8:50, NPH insulin dose, 015
+
+05-27-1991, 13:48, Pre-lunch blood glucose measurement, 220
+
+05-27-1991, 13:48, Regular insulin dose, 002
+
+05-27-1991, 16:10, Regular insulin dose, 007
+
+05-27-1991, 22:42, Unspecified blood glucose measurement, 122
+
+05-28-1991, 7:35, Pre-breakfast blood glucose measurement, 075
+
+05-28-1991, 7:35, Regular insulin dose, 009
+
+05-28-1991, 7:35, NPH insulin dose, 015
+
+05-28-1991, 12:52, Pre-lunch blood glucose measurement, 064
+
+05-28-1991, 12:52, Regular insulin dose, 004
+
+05-28-1991, 17:20, Regular insulin dose, 007
+
+05-28-1991, 17:20, NPH insulin dose, 094
+
+05-29-1991, 7:28, Pre-breakfast blood glucose measurement, 273
+
+05-29-1991, 7:28, Regular insulin dose, 010
+
+05-29-1991, 7:28, NPH insulin dose, 015
+
+05-29-1991, 13:25, Pre-lunch blood glucose measurement, 125
+
+05-29-1991, 13:25, Regular insulin dose, 004
+
+05-29-1991, 16:55, Pre-supper blood glucose measurement, 240
+
+05-29-1991, 16:55, Regular insulin dose, 007
+
+05-30-1991, 1:00, Hypoglycemic symptoms, 000
+
+05-30-1991, 7:34, Pre-breakfast blood glucose measurement, 217
+
+05-30-1991, 7:34, Regular insulin dose, 009
+
+05-30-1991, 7:34, NPH insulin dose, 015
+
+05-30-1991, 13:53, Pre-lunch blood glucose measurement, 187
+
+05-30-1991, 13:53, Regular insulin dose, 003
+
+05-30-1991, 16:10, Regular insulin dose, 007
+
+05-30-1991, 22:51, Unspecified blood glucose measurement, 046
+
+05-31-1991, 7:30, Pre-breakfast blood glucose measurement, 163
+
+05-31-1991, 7:30, Regular insulin dose, 010
+
+05-31-1991, 7:30, NPH insulin dose, 015
+
+05-31-1991, 14:04, Regular insulin dose, 003
+
+05-31-1991, 14:04, Hypoglycemic symptoms, 000
+
+05-31-1991, 17:13, Pre-supper blood glucose measurement, 127
+
+05-31-1991, 17:13, Regular insulin dose, 007
+
+06-01-1991, 9:20, Pre-breakfast blood glucose measurement, 313
+
+06-01-1991, 9:20, Regular insulin dose, 011
+
+06-01-1991, 9:20, NPH insulin dose, 015
+
+06-01-1991, 14:15, Pre-lunch blood glucose measurement, 255
+
+06-01-1991, 14:15, Regular insulin dose, 003
+
+06-01-1991, 17:00, Pre-supper blood glucose measurement, 119
+
+06-01-1991, 17:00, Regular insulin dose, 007
+
+06-01-1991, 21:20, Unspecified blood glucose measurement, 077
+
+06-02-1991, 9:45, Pre-breakfast blood glucose measurement, 102
+
+06-02-1991, 9:45, Regular insulin dose, 009
+
+06-02-1991, 9:45, NPH insulin dose, 015
+
+06-02-1991, 15:45, Hypoglycemic symptoms, 000
+
+06-02-1991, 17:00, Pre-supper blood glucose measurement, 147
+
+06-02-1991, 17:00, Regular insulin dose, 007
+
+06-02-1991, 23:45, Unspecified blood glucose measurement, 134
+
+06-03-1991, 7:22, Pre-breakfast blood glucose measurement, 069
+
+06-03-1991, 7:22, Regular insulin dose, 009
+
+06-03-1991, 7:22, NPH insulin dose, 015
+
+06-03-1991, 12:39, Pre-lunch blood glucose measurement, 103
+
+06-03-1991, 12:39, Regular insulin dose, 004
+
+06-03-1991, 17:45, Pre-supper blood glucose measurement, 232
+
+06-03-1991, 17:45, Regular insulin dose, 007
+
+06-03-1991, 21:25, Unspecified blood glucose measurement, 120
+
+06-04-1991, 7:35, Pre-breakfast blood glucose measurement, 227
+
+06-04-1991, 7:35, Regular insulin dose, 010
+
+06-04-1991, 7:35, NPH insulin dose, 015
+
+06-04-1991, 18:00, Regular insulin dose, 007
+
+06-05-1991, 7:35, Pre-breakfast blood glucose measurement, 075
+
+06-05-1991, 7:35, Regular insulin dose, 009
+
+06-05-1991, 7:35, NPH insulin dose, 016
+
+06-05-1991, 12:25, Pre-lunch blood glucose measurement, 105
+
+06-05-1991, 12:25, Regular insulin dose, 004
+
+06-05-1991, 13:45, Hypoglycemic symptoms, 000
+
+06-05-1991, 17:35, Pre-supper blood glucose measurement, 287
+
+06-05-1991, 17:35, Regular insulin dose, 008
+
+06-05-1991, 22:00, Unspecified blood glucose measurement, 113
+
+06-06-1991, 8:38, Pre-breakfast blood glucose measurement, 142
+
+06-06-1991, 8:38, Regular insulin dose, 010
+
+06-06-1991, 8:38, NPH insulin dose, 016
+
+06-06-1991, 12:13, Pre-lunch blood glucose measurement, 173
+
+06-06-1991, 12:13, Regular insulin dose, 005
+
+06-06-1991, 17:54, Pre-supper blood glucose measurement, 070
+
+06-06-1991, 17:54, Regular insulin dose, 007
+
+06-06-1991, 22:15, Unspecified blood glucose measurement, 153
+
+06-07-1991, 8:35, Pre-breakfast blood glucose measurement, 141
+
+06-07-1991, 8:35, Regular insulin dose, 010
+
+06-07-1991, 8:35, NPH insulin dose, 016
+
+06-07-1991, 12:45, Pre-lunch blood glucose measurement, 146
+
+06-07-1991, 12:45, Regular insulin dose, 005
+
+06-07-1991, 17:03, Pre-supper blood glucose measurement, 096
+
+06-07-1991, 17:03, Regular insulin dose, 007
+
+06-07-1991, 19:30, Hypoglycemic symptoms, 000
+
+06-07-1991, 22:17, Unspecified blood glucose measurement, 105
+
+06-08-1991, 8:45, Pre-breakfast blood glucose measurement, 182
+
+06-08-1991, 8:45, Regular insulin dose, 010
+
+06-08-1991, 8:45, NPH insulin dose, 016
+
+06-08-1991, 14:15, Pre-lunch blood glucose measurement, 202
+
+06-08-1991, 17:00, Pre-supper blood glucose measurement, 111
+
+06-08-1991, 17:00, Regular insulin dose, 007
+
+06-08-1991, 22:22, Unspecified blood glucose measurement, 212
+
+06-09-1991, 9:08, Pre-breakfast blood glucose measurement, 173
+
+06-09-1991, 9:08, Regular insulin dose, 009
+
+06-09-1991, 9:08, NPH insulin dose, 016
+
+06-09-1991, 12:20, Pre-lunch blood glucose measurement, 201
+
+06-09-1991, 12:20, Regular insulin dose, 005
+
+06-09-1991, 17:00, Pre-supper blood glucose measurement, 070
+
+06-09-1991, 17:00, Regular insulin dose, 007
+
+06-09-1991, 22:12, Unspecified blood glucose measurement, 102
+
+06-10-1991, 8:35, Pre-breakfast blood glucose measurement, 171
+
+06-10-1991, 8:35, Regular insulin dose, 010
+
+06-10-1991, 8:35, NPH insulin dose, 016
+
+06-10-1991, 12:40, Pre-lunch blood glucose measurement, 107
+
+06-10-1991, 12:40, Regular insulin dose, 004
+
+06-10-1991, 17:17, Pre-supper blood glucose measurement, 134
+
+06-10-1991, 17:17, Regular insulin dose, 007
+
+06-10-1991, 22:00, Unspecified blood glucose measurement, 035
+
+06-11-1991, 4:00, Hypoglycemic symptoms, 000
+
+06-11-1991, 8:34, Pre-breakfast blood glucose measurement, 156
+
+06-11-1991, 8:34, Regular insulin dose, 009
+
+06-11-1991, 8:34, NPH insulin dose, 016
+
+06-11-1991, 13:16, Pre-lunch blood glucose measurement, 106
+
+06-11-1991, 13:16, Regular insulin dose, 004
+
+06-11-1991, 16:00, Hypoglycemic symptoms, 000
+
+06-11-1991, 17:12, Pre-supper blood glucose measurement, 125
+
+06-11-1991, 17:12, Regular insulin dose, 006
+
+06-11-1991, 22:03, Unspecified blood glucose measurement, 094
+
+06-11-1991, 22:30, Hypoglycemic symptoms, 000
+
+06-12-1991, 8:25, Pre-breakfast blood glucose measurement, 055
+
+06-12-1991, 8:25, Regular insulin dose, 009
+
+06-12-1991, 8:25, NPH insulin dose, 016
+
+06-12-1991, 12:53, Pre-lunch blood glucose measurement, 204
+
+06-12-1991, 12:53, Regular insulin dose, 004
+
+06-12-1991, 17:07, Pre-supper blood glucose measurement, 074
+
+06-12-1991, 17:07, Regular insulin dose, 006
+
+06-12-1991, 20:00, Hypoglycemic symptoms, 000
+
+06-12-1991, 22:56, Unspecified blood glucose measurement, 211
+
+06-13-1991, 8:45, Pre-breakfast blood glucose measurement, 233
+
+06-13-1991, 8:45, Regular insulin dose, 010
+
+06-13-1991, 8:45, NPH insulin dose, 016
+
+06-13-1991, 12:52, Pre-lunch blood glucose measurement, 180
+
+06-13-1991, 17:10, Pre-supper blood glucose measurement, 180
+
+06-13-1991, 17:10, Regular insulin dose, 006
+
+06-13-1991, 22:13, Unspecified blood glucose measurement, 104
+
+06-14-1991, 4:00, Unspecified blood glucose measurement, 035
+
+06-14-1991, 8:00, Pre-breakfast blood glucose measurement, 194
+
+06-14-1991, 8:00, Regular insulin dose, 010
+
+06-14-1991, 8:00, NPH insulin dose, 016
+
+06-14-1991, 12:45, Pre-lunch blood glucose measurement, 187
+
+06-14-1991, 12:45, Regular insulin dose, 004
+
+06-14-1991, 17:11, Pre-supper blood glucose measurement, 159
+
+06-14-1991, 17:11, Regular insulin dose, 006
+
+06-14-1991, 23:00, Unspecified blood glucose measurement, 164
+
+06-15-1991, 9:19, Pre-breakfast blood glucose measurement, 076
+
+06-15-1991, 9:19, Regular insulin dose, 009
+
+06-15-1991, 9:19, NPH insulin dose, 016
+
+06-15-1991, 12:53, Pre-lunch blood glucose measurement, 072
+
+06-15-1991, 12:53, Regular insulin dose, 003
+
+06-15-1991, 17:15, Pre-supper blood glucose measurement, 139
+
+06-15-1991, 17:15, Regular insulin dose, 006
+
+06-15-1991, 22:30, Unspecified blood glucose measurement, 077
+
+06-16-1991, 9:05, Pre-breakfast blood glucose measurement, 094
+
+06-16-1991, 9:05, Regular insulin dose, 009
+
+06-16-1991, 9:05, NPH insulin dose, 016
+
+06-16-1991, 13:52, Pre-lunch blood glucose measurement, 068
+
+06-16-1991, 16:15, Regular insulin dose, 006
+
+06-16-1991, 23:00, Unspecified blood glucose measurement, 094
+
+06-17-1991, 7:00, Pre-breakfast blood glucose measurement, 133
+
+06-17-1991, 7:00, Regular insulin dose, 007
+
+06-17-1991, 7:00, NPH insulin dose, 016
+
+06-17-1991, 12:50, Pre-lunch blood glucose measurement, 159
+
+06-17-1991, 12:50, Regular insulin dose, 004
+
+06-17-1991, 18:00, Regular insulin dose, 006
+
+06-17-1991, 22:23, Unspecified blood glucose measurement, 232
+
+06-18-1991, 7:00, Pre-breakfast blood glucose measurement, 103
+
+06-18-1991, 7:00, Regular insulin dose, 009
+
+06-18-1991, 7:00, NPH insulin dose, 016
+
+06-18-1991, 11:30, Pre-lunch blood glucose measurement, 063
+
+06-18-1991, 11:30, Regular insulin dose, 004
+
+06-18-1991, 17:04, Pre-supper blood glucose measurement, 075
+
+06-18-1991, 17:04, Regular insulin dose, 006
+
+06-19-1991, 7:06, Pre-breakfast blood glucose measurement, 262
+
+06-19-1991, 7:06, Regular insulin dose, 010
+
+06-19-1991, 7:06, NPH insulin dose, 016
+
+06-19-1991, 11:30, Hypoglycemic symptoms, 000
+
+06-19-1991, 12:40, Pre-lunch blood glucose measurement, 134
+
+06-19-1991, 12:40, Regular insulin dose, 004
+
+06-19-1991, 17:02, Pre-supper blood glucose measurement, 126
+
+06-20-1991, 7:03, Pre-breakfast blood glucose measurement, 152
+
+06-20-1991, 7:03, Regular insulin dose, 009
+
+06-20-1991, 7:03, NPH insulin dose, 016
+
+06-20-1991, 12:50, Regular insulin dose, 004
+
+06-20-1991, 17:50, Pre-supper blood glucose measurement, 066
+
+06-20-1991, 17:50, Regular insulin dose, 006
+
+06-20-1991, 21:00, Hypoglycemic symptoms, 000
+
+06-20-1991, 21:49, Unspecified blood glucose measurement, 113
+
+06-21-1991, 7:55, Pre-breakfast blood glucose measurement, 207
+
+06-21-1991, 7:55, Regular insulin dose, 009
+
+06-21-1991, 7:55, NPH insulin dose, 016
+
+06-21-1991, 12:15, Pre-lunch blood glucose measurement, 128
+
+06-21-1991, 12:15, Regular insulin dose, 004
+
+06-21-1991, 17:00, Regular insulin dose, 006
+
+06-21-1991, 22:06, Unspecified blood glucose measurement, 269
+
+06-22-1991, 8:58, Pre-breakfast blood glucose measurement, 142
+
+06-22-1991, 8:58, Regular insulin dose, 009
+
+06-22-1991, 8:58, NPH insulin dose, 016
+
+06-22-1991, 12:17, Pre-lunch blood glucose measurement, 067
+
+06-22-1991, 12:17, Regular insulin dose, 004
+
+06-22-1991, 17:15, Pre-supper blood glucose measurement, 079
+
+06-22-1991, 17:15, Regular insulin dose, 006
+
+06-22-1991, 23:00, Unspecified blood glucose measurement, 088
+
+06-23-1991, 8:45, Pre-breakfast blood glucose measurement, 184
+
+06-23-1991, 8:45, Regular insulin dose, 009
+
+06-23-1991, 8:45, NPH insulin dose, 016
+
+06-23-1991, 12:45, Pre-lunch blood glucose measurement, 219
+
+06-23-1991, 12:45, Regular insulin dose, 004
+
+06-23-1991, 17:04, Pre-supper blood glucose measurement, 084
+
+06-23-1991, 17:04, Regular insulin dose, 006
+
+06-23-1991, 23:06, Unspecified blood glucose measurement, 132
+
+06-24-1991, 7:02, Pre-breakfast blood glucose measurement, 113
+
+06-24-1991, 7:02, Regular insulin dose, 009
+
+06-24-1991, 7:02, NPH insulin dose, 016
+
+06-24-1991, 12:00, Regular insulin dose, 004
+
+06-24-1991, 16:54, Pre-supper blood glucose measurement, 217
+
+06-24-1991, 16:54, Regular insulin dose, 006
+
+06-25-1991, 7:06, Pre-breakfast blood glucose measurement, 142
+
+06-25-1991, 7:06, Regular insulin dose, 008
+
+06-25-1991, 7:06, NPH insulin dose, 016
+
+06-25-1991, 12:37, Pre-lunch blood glucose measurement, 133
+
+06-25-1991, 12:37, Regular insulin dose, 004
+
+06-25-1991, 16:00, Hypoglycemic symptoms, 000
+
+06-25-1991, 17:30, Pre-supper blood glucose measurement, 172
+
+06-25-1991, 17:30, Regular insulin dose, 006
+
+06-25-1991, 22:49, Unspecified blood glucose measurement, 112
+
+06-26-1991, 7:05, Pre-breakfast blood glucose measurement, 168
+
+06-26-1991, 7:05, Regular insulin dose, 009
+
+06-26-1991, 7:05, NPH insulin dose, 016
+
+06-26-1991, 12:00, Regular insulin dose, 004
+
+06-26-1991, 16:00, Hypoglycemic symptoms, 000
+
+06-26-1991, 17:21, Pre-supper blood glucose measurement, 114
+
+06-26-1991, 17:21, Regular insulin dose, 006
+
+06-26-1991, 22:43, Unspecified blood glucose measurement, 058
+
+06-27-1991, 1:00, Hypoglycemic symptoms, 000
+
+06-27-1991, 7:04, Pre-breakfast blood glucose measurement, 265
+
+06-27-1991, 7:04, Regular insulin dose, 010
+
+06-27-1991, 7:04, NPH insulin dose, 016
+
+06-27-1991, 12:00, Regular insulin dose, 004
+
+06-27-1991, 18:00, Regular insulin dose, 006
+
+06-27-1991, 23:04, Unspecified blood glucose measurement, 205
+
+06-28-1991, 7:52, Pre-breakfast blood glucose measurement, 206
+
+06-28-1991, 7:52, Regular insulin dose, 010
+
+06-28-1991, 7:52, NPH insulin dose, 016
+
+06-28-1991, 12:43, Pre-lunch blood glucose measurement, 079
+
+06-28-1991, 12:43, Regular insulin dose, 004
+
+06-28-1991, 17:15, Regular insulin dose, 006
+
+06-28-1991, 17:15, Hypoglycemic symptoms, 000
+
+06-28-1991, 22:15, Unspecified blood glucose measurement, 251
+
+06-29-1991, 9:35, Pre-breakfast blood glucose measurement, 263
+
+06-29-1991, 9:35, Regular insulin dose, 010
+
+06-29-1991, 9:35, NPH insulin dose, 016
+
+06-29-1991, 14:00, Pre-lunch blood glucose measurement, 080
+
+06-29-1991, 14:00, Regular insulin dose, 002
+
+06-29-1991, 17:09, Pre-supper blood glucose measurement, 051
+
+06-29-1991, 17:09, Regular insulin dose, 006
+
+06-30-1991, 9:38, Pre-breakfast blood glucose measurement, 193
+
+06-30-1991, 9:38, Regular insulin dose, 005
+
+06-30-1991, 9:38, NPH insulin dose, 016
+
+06-30-1991, 12:06, Pre-lunch blood glucose measurement, 306
+
+06-30-1991, 12:06, Regular insulin dose, 005
+
+06-30-1991, 17:21, Pre-supper blood glucose measurement, 156
+
+06-30-1991, 17:21, Regular insulin dose, 006
+
+06-30-1991, 22:38, Unspecified blood glucose measurement, 303
+
+06-30-1991, 22:38, Regular insulin dose, 002
+
+07-01-1991, 7:07, Pre-breakfast blood glucose measurement, 197
+
+07-01-1991, 7:07, Regular insulin dose, 010
+
+07-01-1991, 7:07, NPH insulin dose, 016
+
+07-01-1991, 12:33, Pre-lunch blood glucose measurement, 136
+
+07-01-1991, 12:33, Regular insulin dose, 004
+
+07-01-1991, 18:05, Pre-supper blood glucose measurement, 181
+
+07-01-1991, 18:05, Regular insulin dose, 006
+
+07-01-1991, 22:15, Unspecified blood glucose measurement, 146
+
+07-02-1991, 6:56, Pre-breakfast blood glucose measurement, 066
+
+07-02-1991, 6:56, Regular insulin dose, 008
+
+07-02-1991, 6:56, NPH insulin dose, 016
+
+07-02-1991, 12:40, Pre-lunch blood glucose measurement, 076
+
+07-02-1991, 12:40, Regular insulin dose, 004
+
+07-02-1991, 16:00, Hypoglycemic symptoms, 000
+
+07-02-1991, 17:11, Pre-supper blood glucose measurement, 193
+
+07-02-1991, 17:11, Regular insulin dose, 006
+
+07-02-1991, 22:49, Unspecified blood glucose measurement, 101
+
+07-03-1991, 7:07, Pre-breakfast blood glucose measurement, 255
+
+07-03-1991, 7:07, Regular insulin dose, 010
+
+07-03-1991, 7:07, NPH insulin dose, 016
+
+07-03-1991, 12:32, Pre-lunch blood glucose measurement, 113
+
+07-03-1991, 12:32, Regular insulin dose, 004
+
+07-03-1991, 15:00, Hypoglycemic symptoms, 000
+
+07-03-1991, 17:12, Pre-supper blood glucose measurement, 198
+
+07-03-1991, 17:12, Regular insulin dose, 006
+
+07-04-1991, 1:00, Hypoglycemic symptoms, 000
+
+07-04-1991, 9:07, Pre-breakfast blood glucose measurement, 267
+
+07-04-1991, 9:07, Regular insulin dose, 010
+
+07-04-1991, 9:07, NPH insulin dose, 016
+
+07-04-1991, 13:38, Pre-lunch blood glucose measurement, 183
+
+07-04-1991, 13:38, Regular insulin dose, 003
+
+07-04-1991, 18:00, Regular insulin dose, 006
+
+07-04-1991, 22:40, Unspecified blood glucose measurement, 273
+
+07-04-1991, 22:40, Regular insulin dose, 002
+
+07-05-1991, 8:26, Pre-breakfast blood glucose measurement, 256
+
+07-05-1991, 8:26, Regular insulin dose, 010
+
+07-05-1991, 8:26, NPH insulin dose, 016
+
+07-05-1991, 12:20, Regular insulin dose, 003
+
+07-05-1991, 17:36, Pre-supper blood glucose measurement, 154
+
+07-05-1991, 17:36, Regular insulin dose, 006
+
+07-05-1991, 22:55, Unspecified blood glucose measurement, 259
+
+07-05-1991, 22:55, Regular insulin dose, 002
+
+07-06-1991, 9:15, Pre-breakfast blood glucose measurement, 166
+
+07-06-1991, 9:15, Regular insulin dose, 009
+
+07-06-1991, 9:15, NPH insulin dose, 016
+
+07-06-1991, 12:00, Regular insulin dose, 003
+
+07-06-1991, 15:00, Hypoglycemic symptoms, 000
+
+07-06-1991, 17:33, Pre-supper blood glucose measurement, 222
+
+07-06-1991, 17:33, Regular insulin dose, 007
+
+07-07-1991, 9:43, Pre-breakfast blood glucose measurement, 182
+
+07-07-1991, 9:43, Regular insulin dose, 009
+
+07-07-1991, 9:43, NPH insulin dose, 016
+
+07-07-1991, 13:00, Hypoglycemic symptoms, 000
+
+07-07-1991, 13:17, Pre-lunch blood glucose measurement, 059
+
+07-07-1991, 17:00, Hypoglycemic symptoms, 000
+
+07-07-1991, 17:35, Pre-supper blood glucose measurement, 103
+
+07-07-1991, 17:35, Regular insulin dose, 007
+
+07-07-1991, 23:00, Unspecified blood glucose measurement, 225
+
+07-08-1991, 7:07, Pre-breakfast blood glucose measurement, 169
+
+07-08-1991, 7:07, Regular insulin dose, 009
+
+07-08-1991, 7:07, NPH insulin dose, 016
+
+07-08-1991, 11:30, Hypoglycemic symptoms, 000
+
+07-08-1991, 17:28, Pre-supper blood glucose measurement, 128
+
+07-08-1991, 17:28, Regular insulin dose, 007
+
+07-08-1991, 22:22, Unspecified blood glucose measurement, 177
+
+07-09-1991, 7:08, Pre-breakfast blood glucose measurement, 094
+
+07-09-1991, 7:08, Regular insulin dose, 007
+
+07-09-1991, 7:08, NPH insulin dose, 016
+
+07-09-1991, 12:38, Pre-lunch blood glucose measurement, 074
+
+07-09-1991, 12:38, Regular insulin dose, 002
+
+07-09-1991, 17:40, Pre-supper blood glucose measurement, 229
+
+07-09-1991, 17:40, Regular insulin dose, 007
+
+07-09-1991, 21:45, Hypoglycemic symptoms, 000
+
+07-09-1991, 22:35, Unspecified blood glucose measurement, 145
+
+07-10-1991, 7:01, Pre-breakfast blood glucose measurement, 184
+
+07-10-1991, 7:01, Regular insulin dose, 008
+
+07-10-1991, 7:01, NPH insulin dose, 016
+
+07-10-1991, 12:32, Pre-lunch blood glucose measurement, 061
+
+07-10-1991, 12:32, Regular insulin dose, 003
+
+07-10-1991, 17:11, Pre-supper blood glucose measurement, 271
+
+07-10-1991, 17:11, Regular insulin dose, 007
+
+07-10-1991, 22:46, Unspecified blood glucose measurement, 162
+
+07-11-1991, 7:06, Pre-breakfast blood glucose measurement, 129
+
+07-11-1991, 7:06, Regular insulin dose, 008
+
+07-11-1991, 7:06, NPH insulin dose, 016
+
+07-11-1991, 12:38, Pre-lunch blood glucose measurement, 122
+
+07-11-1991, 12:38, Regular insulin dose, 003
+
+07-11-1991, 17:15, Regular insulin dose, 007
+
+07-11-1991, 20:15, Hypoglycemic symptoms, 000
+
+07-12-1991, 8:12, Pre-breakfast blood glucose measurement, 258
+
+07-12-1991, 8:12, Regular insulin dose, 010
+
+07-12-1991, 8:12, NPH insulin dose, 016
+
+07-12-1991, 11:30, Pre-lunch blood glucose measurement, 267
+
+07-12-1991, 17:15, Pre-supper blood glucose measurement, 089
+
+07-12-1991, 17:15, Regular insulin dose, 007
+
+07-12-1991, 21:22, Unspecified blood glucose measurement, 188
+
+07-13-1991, 7:52, Pre-breakfast blood glucose measurement, 251
+
+07-13-1991, 7:52, Regular insulin dose, 010
+
+07-13-1991, 7:52, NPH insulin dose, 016
+
+07-13-1991, 13:11, Pre-lunch blood glucose measurement, 207
+
+07-13-1991, 13:11, Regular insulin dose, 003
+
+07-13-1991, 18:00, Regular insulin dose, 007
+
+07-13-1991, 08:00, NPH insulin dose, 016
+
+07-14-1991, 8:38, Pre-breakfast blood glucose measurement, 225
+
+07-14-1991, 8:38, Regular insulin dose, 010
+
+07-14-1991, 8:38, NPH insulin dose, 016
+
+07-14-1991, 16:00, Hypoglycemic symptoms, 000
+
+07-14-1991, 17:52, Pre-supper blood glucose measurement, 191
+
+07-14-1991, 17:52, Regular insulin dose, 007
+
+07-15-1991, 6:57, Pre-breakfast blood glucose measurement, 107
+
+07-15-1991, 6:57, Regular insulin dose, 008
+
+07-15-1991, 6:57, NPH insulin dose, 016
+
+07-15-1991, 11:30, Hypoglycemic symptoms, 000
+
+07-15-1991, 12:00, Regular insulin dose, 003
+
+07-15-1991, 16:56, Pre-supper blood glucose measurement, 226
+
+07-15-1991, 16:56, Regular insulin dose, 007
+
+07-15-1991, 22:07, Unspecified blood glucose measurement, 158
+
+07-16-1991, 7:06, Pre-breakfast blood glucose measurement, 178
+
+07-16-1991, 7:06, Regular insulin dose, 007
+
+07-16-1991, 7:06, NPH insulin dose, 016
+
+07-16-1991, 12:51, Pre-lunch blood glucose measurement, 189
+
+07-16-1991, 12:51, Regular insulin dose, 002
+
+07-16-1991, 17:06, Pre-supper blood glucose measurement, 200
+
+07-16-1991, 17:06, Regular insulin dose, 007
+
+07-16-1991, 22:51, Unspecified blood glucose measurement, 067
+
+07-17-1991, 6:59, Pre-breakfast blood glucose measurement, 121
+
+07-17-1991, 6:59, Regular insulin dose, 008
+
+07-17-1991, 6:59, NPH insulin dose, 016
+
+07-17-1991, 11:00, Hypoglycemic symptoms, 000
+
+07-17-1991, 13:02, Pre-lunch blood glucose measurement, 136
+
+07-17-1991, 13:02, Regular insulin dose, 002
+
+07-17-1991, 17:34, Pre-supper blood glucose measurement, 207
+
+07-17-1991, 17:34, Regular insulin dose, 007
+
+07-18-1991, 7:04, Pre-breakfast blood glucose measurement, 109
+
+07-18-1991, 7:04, Regular insulin dose, 008
+
+07-18-1991, 7:04, NPH insulin dose, 016
+
+07-18-1991, 12:45, Regular insulin dose, 003
+
+07-18-1991, 12:45, Hypoglycemic symptoms, 000
+
+07-18-1991, 17:51, Pre-supper blood glucose measurement, 203
+
+07-18-1991, 17:51, Regular insulin dose, 007
+
+07-18-1991, 22:22, Unspecified blood glucose measurement, 091
+
+07-19-1991, 8:25, Pre-breakfast blood glucose measurement, 130
+
+07-19-1991, 8:25, Regular insulin dose, 008
+
+07-19-1991, 8:25, NPH insulin dose, 016
+
+07-19-1991, 12:00, Regular insulin dose, 003
+
+07-19-1991, 17:47, Pre-supper blood glucose measurement, 195
+
+07-19-1991, 17:47, Regular insulin dose, 007
+
+07-20-1991, 8:35, Pre-breakfast blood glucose measurement, 257
+
+07-20-1991, 8:35, Regular insulin dose, 009
+
+07-20-1991, 8:35, NPH insulin dose, 016
+
+07-20-1991, 12:00, Regular insulin dose, 004
+
+07-20-1991, 17:20, Pre-supper blood glucose measurement, 201
+
+07-20-1991, 17:20, Regular insulin dose, 007
+
+07-20-1991, 21:25, Unspecified blood glucose measurement, 206
+
+07-21-1991, 3:15, Hypoglycemic symptoms, 000
+
+07-21-1991, 8:05, Pre-breakfast blood glucose measurement, 153
+
+07-21-1991, 8:05, Regular insulin dose, 008
+
+07-21-1991, 8:05, NPH insulin dose, 016
+
+07-21-1991, 12:00, Regular insulin dose, 004
+
+07-21-1991, 17:52, Pre-supper blood glucose measurement, 082
+
+07-21-1991, 17:52, Regular insulin dose, 007
+
+07-22-1991, 7:01, Pre-breakfast blood glucose measurement, 059
+
+07-22-1991, 7:01, Regular insulin dose, 008
+
+07-22-1991, 7:01, NPH insulin dose, 016
+
+07-22-1991, 12:00, Regular insulin dose, 004
+
+07-22-1991, 17:07, Pre-supper blood glucose measurement, 081
+
+07-22-1991, 17:07, Regular insulin dose, 007
+
+07-23-1991, 7:03, Pre-breakfast blood glucose measurement, 261
+
+07-23-1991, 7:03, Regular insulin dose, 009
+
+07-23-1991, 7:03, NPH insulin dose, 016
+
+07-23-1991, 13:35, Regular insulin dose, 003
+
+07-23-1991, 17:39, Pre-supper blood glucose measurement, 179
+
+07-23-1991, 17:39, Regular insulin dose, 007
+
+07-24-1991, 7:00, Pre-breakfast blood glucose measurement, 111
+
+07-24-1991, 7:00, Regular insulin dose, 008
+
+07-24-1991, 7:00, NPH insulin dose, 016
+
+07-24-1991, 12:35, Pre-lunch blood glucose measurement, 132
+
+07-24-1991, 12:35, Regular insulin dose, 004
+
+07-24-1991, 16:00, Hypoglycemic symptoms, 000
+
+07-24-1991, 17:27, Pre-supper blood glucose measurement, 185
+
+07-24-1991, 17:27, Regular insulin dose, 008
+
+07-25-1991, 7:00, Pre-breakfast blood glucose measurement, 118
+
+07-25-1991, 7:00, Regular insulin dose, 008
+
+07-25-1991, 7:00, NPH insulin dose, 016
+
+07-25-1991, 12:53, Pre-lunch blood glucose measurement, 079
+
+07-25-1991, 12:53, Regular insulin dose, 003
+
+07-25-1991, 18:00, Regular insulin dose, 007
+
+07-25-1991, 22:58, Unspecified blood glucose measurement, 160
+
+07-26-1991, 7:54, Pre-breakfast blood glucose measurement, 070
+
+07-26-1991, 7:54, Regular insulin dose, 008
+
+07-26-1991, 7:54, NPH insulin dose, 016
+
+07-26-1991, 12:00, Regular insulin dose, 003
+
+07-26-1991, 18:00, Regular insulin dose, 007
+
+07-27-1991, 9:25, Pre-breakfast blood glucose measurement, 123
+
+07-27-1991, 9:25, Regular insulin dose, 008
+
+07-27-1991, 9:25, NPH insulin dose, 016
+
+07-27-1991, 17:10, Pre-supper blood glucose measurement, 147
+
+07-27-1991, 17:10, Regular insulin dose, 007
+
+07-27-1991, 23:30, Unspecified blood glucose measurement, 114
+
+07-28-1991, 10:00, Pre-breakfast blood glucose measurement, 160
+
+07-28-1991, 10:00, Regular insulin dose, 008
+
+07-28-1991, 10:00, NPH insulin dose, 016
+
+07-28-1991, 14:11, Regular insulin dose, 002
+
+07-28-1991, 17:30, Pre-supper blood glucose measurement, 208
+
+07-28-1991, 17:30, Regular insulin dose, 007
+
+07-29-1991, 7:55, Pre-breakfast blood glucose measurement, 087
+
+07-29-1991, 7:55, Regular insulin dose, 008
+
+07-29-1991, 7:55, NPH insulin dose, 016
+
+07-29-1991, 12:23, Pre-lunch blood glucose measurement, 054
+
+07-29-1991, 12:23, Regular insulin dose, 003
+
+07-29-1991, 17:45, Pre-supper blood glucose measurement, 237
+
+07-29-1991, 17:45, Regular insulin dose, 007
+
+07-29-1991, 22:08, Unspecified blood glucose measurement, 062
+
+07-30-1991, 8:11, Pre-breakfast blood glucose measurement, 204
+
+07-30-1991, 8:11, Regular insulin dose, 008
+
+07-30-1991, 8:11, NPH insulin dose, 016
+
+07-30-1991, 12:00, Regular insulin dose, 003
+
+07-30-1991, 18:00, Pre-supper blood glucose measurement, 247
+
+07-30-1991, 18:00, Regular insulin dose, 007
+
+07-30-1991, 22:27, Unspecified blood glucose measurement, 144
+
+07-31-1991, 8:28, Pre-breakfast blood glucose measurement, 109
+
+07-31-1991, 8:28, Regular insulin dose, 007
+
+07-31-1991, 8:28, NPH insulin dose, 016
+
+07-31-1991, 13:15, Pre-lunch blood glucose measurement, 162
+
+07-31-1991, 17:38, Pre-supper blood glucose measurement, 117
+
+07-31-1991, 17:38, Regular insulin dose, 006
+
+07-31-1991, 21:48, Unspecified blood glucose measurement, 149
+
+08-01-1991, 8:30, Pre-breakfast blood glucose measurement, 090
+
+08-01-1991, 8:30, Regular insulin dose, 007
+
+08-01-1991, 8:30, NPH insulin dose, 016
+
+08-01-1991, 12:15, Hypoglycemic symptoms, 000
+
+08-01-1991, 13:53, Regular insulin dose, 003
+
+08-01-1991, 17:30, Pre-supper blood glucose measurement, 133
+
+08-01-1991, 17:30, Regular insulin dose, 006
+
+08-01-1991, 23:25, Unspecified blood glucose measurement, 104
+
+08-02-1991, 8:00, Pre-breakfast blood glucose measurement, 079
+
+08-02-1991, 8:00, Regular insulin dose, 008
+
+08-02-1991, 8:00, NPH insulin dose, 015
+
+08-02-1991, 12:49, Pre-lunch blood glucose measurement, 152
+
+08-02-1991, 12:49, Regular insulin dose, 004
+
+08-02-1991, 17:30, Pre-supper blood glucose measurement, 078
+
+08-02-1991, 17:30, Regular insulin dose, 007
+
+08-02-1991, 19:00, Hypoglycemic symptoms, 000
+
+08-02-1991, 22:38, Unspecified blood glucose measurement, 218
+
+08-03-1991, 5:30, Pre-breakfast blood glucose measurement, 244
+
+08-03-1991, 5:30, NPH insulin dose, 016
+
+08-03-1991, 18:00, Pre-supper blood glucose measurement, 257
+
+08-03-1991, 18:00, Regular insulin dose, 006
+
+08-04-1991, 08:00, Pre-breakfast blood glucose measurement, 246
+
+08-04-1991, 08:00, Regular insulin dose, 008
+
+08-04-1991, 08:00, NPH insulin dose, 016
+
+08-04-1991, 12:00, Regular insulin dose, 004
+
+08-04-1991, 18:00, Regular insulin dose, 006
+
+08-05-1991, 08:00, Pre-breakfast blood glucose measurement, 234
+
+08-05-1991, 08:00, Regular insulin dose, 009
+
+08-05-1991, 08:00, NPH insulin dose, 016
+
+08-05-1991, 18:00, Pre-supper blood glucose measurement, 171
+
+08-05-1991, 18:00, Regular insulin dose, 006
+
+08-05-1991, 22:30, Unspecified blood glucose measurement, 110
+
+08-05-1991, 23:30, Hypoglycemic symptoms, 000
+
+08-06-1991, 8:22, Pre-breakfast blood glucose measurement, 101
+
+08-06-1991, 8:22, Regular insulin dose, 008
+
+08-06-1991, 8:22, NPH insulin dose, 015
+
+08-06-1991, 12:15, Regular insulin dose, 003
+
+08-06-1991, 15:15, Hypoglycemic symptoms, 000
+
+08-06-1991, 18:15, Pre-supper blood glucose measurement, 157
+
+08-06-1991, 18:15, Regular insulin dose, 006
+
+08-07-1991, 7:51, Pre-breakfast blood glucose measurement, 165
+
+08-07-1991, 7:51, Regular insulin dose, 008
+
+08-07-1991, 7:51, NPH insulin dose, 015
+
+08-07-1991, 12:30, Regular insulin dose, 003
+
+08-07-1991, 16:00, Hypoglycemic symptoms, 000
+
+08-07-1991, 18:20, Pre-supper blood glucose measurement, 248
+
+08-07-1991, 18:20, Regular insulin dose, 006
+
+08-08-1991, 8:45, Pre-breakfast blood glucose measurement, 247
+
+08-08-1991, 8:45, Regular insulin dose, 008
+
+08-08-1991, 8:45, NPH insulin dose, 015
+
+08-08-1991, 12:00, Regular insulin dose, 002
+
+08-08-1991, 18:00, Regular insulin dose, 006
+
+08-09-1991, 7:38, Pre-breakfast blood glucose measurement, 335
+
+08-09-1991, 7:38, Regular insulin dose, 009
+
+08-09-1991, 7:38, NPH insulin dose, 016
+
+08-09-1991, 12:30, Pre-lunch blood glucose measurement, 199
+
+08-09-1991, 12:30, Regular insulin dose, 004
+
+08-09-1991, 18:00, Regular insulin dose, 006
+
+08-10-1991, 8:45, Pre-breakfast blood glucose measurement, 201
+
+08-10-1991, 8:45, Regular insulin dose, 008
+
+08-10-1991, 8:45, NPH insulin dose, 016
+
+08-10-1991, 12:00, Regular insulin dose, 004
+
+08-10-1991, 16:30, Hypoglycemic symptoms, 000
+
+08-10-1991, 18:00, Regular insulin dose, 007
+
+08-11-1991, 6:45, Pre-breakfast blood glucose measurement, 209
+
+08-11-1991, 6:45, Regular insulin dose, 008
+
+08-11-1991, 6:45, NPH insulin dose, 016
+
+08-12-1991, 8:20, Pre-breakfast blood glucose measurement, 129
+
+08-12-1991, 8:20, Regular insulin dose, 008
+
+08-12-1991, 8:20, NPH insulin dose, 015
+
+08-12-1991, 12:00, Regular insulin dose, 004
+
+08-12-1991, 18:00, Regular insulin dose, 007
+
+08-13-1991, 8:45, Pre-breakfast blood glucose measurement, 199
+
+08-13-1991, 8:45, Regular insulin dose, 008
+
+08-13-1991, 8:45, NPH insulin dose, 016
+
+08-13-1991, 12:00, Regular insulin dose, 004
+
+08-13-1991, 18:00, Pre-supper blood glucose measurement, 140
+
+08-13-1991, 18:00, Regular insulin dose, 007
+
+08-14-1991, 8:50, Pre-breakfast blood glucose measurement, 249
+
+08-14-1991, 8:50, Regular insulin dose, 009
+
+08-14-1991, 8:50, NPH insulin dose, 015
+
+08-14-1991, 12:00, Regular insulin dose, 004
+
+08-14-1991, 18:00, Regular insulin dose, 006
+
+08-14-1991, 21:00, Hypoglycemic symptoms, 000
+
+08-15-1991, 1:30, Hypoglycemic symptoms, 000
+
+08-15-1991, 8:15, Pre-breakfast blood glucose measurement, 246
+
+08-15-1991, 8:15, Regular insulin dose, 009
+
+08-15-1991, 8:15, NPH insulin dose, 015
+
+08-15-1991, 12:00, Regular insulin dose, 003
+
+08-15-1991, 18:00, Pre-supper blood glucose measurement, 173
+
+08-15-1991, 18:00, Regular insulin dose, 006
+
+08-16-1991, 6:15, Pre-breakfast blood glucose measurement, 251
+
+08-16-1991, 6:15, Regular insulin dose, 009
+
+08-16-1991, 6:15, NPH insulin dose, 015
+
+08-16-1991, 11:30, Hypoglycemic symptoms, 000
+
+08-16-1991, 12:00, Regular insulin dose, 003
+
+08-16-1991, 18:00, Regular insulin dose, 006
+
+08-16-1991, 22:20, Unspecified blood glucose measurement, 309
+
+08-16-1991, 22:20, Regular insulin dose, 002
+
+08-17-1991, 7:45, Pre-breakfast blood glucose measurement, 159
+
+08-17-1991, 7:45, Regular insulin dose, 008
+
+08-17-1991, 7:45, NPH insulin dose, 015
+
+08-17-1991, 18:00, Regular insulin dose, 006
+
+08-18-1991, 8:00, Regular insulin dose, 008
+
+08-18-1991, 8:00, NPH insulin dose, 015
+
+08-18-1991, 12:00, Regular insulin dose, 006
+
+08-18-1991, 18:00, Pre-supper blood glucose measurement, 095
+
+08-18-1991, 18:00, Regular insulin dose, 004
+
+08-18-1991, 23:15, Unspecified blood glucose measurement, 140
+
+08-19-1991, 8:30, Pre-breakfast blood glucose measurement, 103
+
+08-19-1991, 8:30, Regular insulin dose, 008
+
+08-19-1991, 8:30, NPH insulin dose, 015
+
+08-19-1991, 12:00, Regular insulin dose, 003
+
+08-19-1991, 19:30, Pre-supper blood glucose measurement, 285
+
+08-19-1991, 19:30, Regular insulin dose, 007
+
+08-19-1991, 22:22, Unspecified blood glucose measurement, 103
+
+08-20-1991, 8:55, Pre-breakfast blood glucose measurement, 098
+
+08-20-1991, 8:55, Regular insulin dose, 008
+
+08-20-1991, 8:55, NPH insulin dose, 015
+
+08-20-1991, 12:00, Regular insulin dose, 004
+
+08-20-1991, 5:56, Pre-supper blood glucose measurement, 080
+
+08-20-1991, 5:56, Regular insulin dose, 006
+
+08-21-1991, 9:15, Pre-breakfast blood glucose measurement, 163
+
+08-21-1991, 9:15, Regular insulin dose, 008
+
+08-21-1991, 9:15, NPH insulin dose, 015
+
+08-21-1991, 12:00, Regular insulin dose, 004
+
+08-21-1991, 18:00, Regular insulin dose, 007
+
+08-22-1991, 8:22, Pre-breakfast blood glucose measurement, 059
+
+08-22-1991, 8:22, Regular insulin dose, 008
+
+08-22-1991, 8:22, NPH insulin dose, 015
+
+08-22-1991, 12:00, Regular insulin dose, 004
+
+08-22-1991, 18:00, Regular insulin dose, 006
+
+08-22-1991, 20:30, Hypoglycemic symptoms, 000
+
+08-23-1991, 6:25, Pre-breakfast blood glucose measurement, 138
+
+08-23-1991, 6:25, Regular insulin dose, 008
+
+08-23-1991, 6:25, NPH insulin dose, 015
+
+08-23-1991, 12:00, Regular insulin dose, 004
+
+08-23-1991, 18:00, Regular insulin dose, 006
+
+08-24-1991, 7:30, Pre-breakfast blood glucose measurement, 251
+
+08-24-1991, 7:30, Regular insulin dose, 008
+
+08-24-1991, 7:30, NPH insulin dose, 015
+
+08-24-1991, 17:58, Pre-supper blood glucose measurement, 246
+
+08-24-1991, 17:58, Regular insulin dose, 007
+
+08-24-1991, 22:59, Unspecified blood glucose measurement, 143
+
+08-25-1991, 9:50, Pre-breakfast blood glucose measurement, 293
+
+08-25-1991, 9:50, Regular insulin dose, 009
+
+08-25-1991, 9:50, NPH insulin dose, 016
+
+08-25-1991, 12:31, Pre-lunch blood glucose measurement, 294
+
+08-25-1991, 12:31, Regular insulin dose, 004
+
+08-25-1991, 17:50, Pre-supper blood glucose measurement, 113
+
+08-25-1991, 17:50, Regular insulin dose, 006
+
+08-25-1991, 22:22, Unspecified blood glucose measurement, 284
+
+08-25-1991, 22:22, Regular insulin dose, 002
+
+08-26-1991, 8:33, Pre-breakfast blood glucose measurement, 089
+
+08-26-1991, 8:33, Regular insulin dose, 008
+
+08-26-1991, 8:33, NPH insulin dose, 016
+
+08-26-1991, 12:00, Regular insulin dose, 004
+
+08-26-1991, 16:54, Pre-supper blood glucose measurement, 108
+
+08-26-1991, 16:54, Regular insulin dose, 007
+
+08-26-1991, 22:32, Unspecified blood glucose measurement, 094
+
+08-27-1991, 8:53, Pre-breakfast blood glucose measurement, 152
+
+08-27-1991, 8:53, Regular insulin dose, 008
+
+08-27-1991, 8:53, NPH insulin dose, 016
+
+08-27-1991, 14:57, Pre-lunch blood glucose measurement, 119
+
+08-27-1991, 16:58, Pre-supper blood glucose measurement, 170
+
+08-27-1991, 16:58, Regular insulin dose, 007
+
+08-28-1991, 8:28, Pre-breakfast blood glucose measurement, 283
+
+08-28-1991, 8:28, Regular insulin dose, 010
+
+08-28-1991, 8:28, NPH insulin dose, 016
+
+08-28-1991, 12:00, Regular insulin dose, 004
+
+08-28-1991, 17:50, Regular insulin dose, 007
+
+08-28-1991, 22:04, Unspecified blood glucose measurement, 185
+
+08-29-1991, 8:15, Pre-breakfast blood glucose measurement, 135
+
+08-29-1991, 8:15, Regular insulin dose, 008
+
+08-29-1991, 8:15, NPH insulin dose, 016
+
+08-29-1991, 17:10, Pre-supper blood glucose measurement, 184
+
+08-29-1991, 17:10, Regular insulin dose, 007
+
+08-30-1991, 9:04, Pre-breakfast blood glucose measurement, 253
+
+08-30-1991, 9:04, Regular insulin dose, 009
+
+08-30-1991, 9:04, NPH insulin dose, 016
+
+08-30-1991, 13:35, Regular insulin dose, 003
+
+08-30-1991, 18:01, Pre-supper blood glucose measurement, 189
+
+08-30-1991, 18:01, Regular insulin dose, 007
+
+08-31-1991, 9:38, Pre-breakfast blood glucose measurement, 165
+
+08-31-1991, 9:38, Regular insulin dose, 009
+
+08-31-1991, 9:38, NPH insulin dose, 016
+
+08-31-1991, 17:53, Pre-supper blood glucose measurement, 113
+
+08-31-1991, 17:53, Regular insulin dose, 007
+
+08-31-1991, 23:03, Unspecified blood glucose measurement, 272
+
+08-31-1991, 23:03, Regular insulin dose, 001
+
+09-01-1991, 9:02, Pre-breakfast blood glucose measurement, 183
+
+09-01-1991, 9:02, Regular insulin dose, 009
+
+09-01-1991, 9:02, NPH insulin dose, 016
+
+09-01-1991, 15:15, Hypoglycemic symptoms, 000
+
+09-01-1991, 17:41, Pre-supper blood glucose measurement, 249
+
+09-01-1991, 17:41, Regular insulin dose, 007
+
+09-01-1991, 23:32, Unspecified blood glucose measurement, 174
+
+09-02-1991, 8:51, Pre-breakfast blood glucose measurement, 168
+
+09-02-1991, 8:51, Regular insulin dose, 009
+
+09-02-1991, 8:51, NPH insulin dose, 016
+
+09-02-1991, 13:00, Regular insulin dose, 004
+
+09-02-1991, 17:30, Pre-supper blood glucose measurement, 061
+
+09-02-1991, 17:30, Regular insulin dose, 007
+
+09-02-1991, 23:00, Unspecified blood glucose measurement, 155
+
+09-03-1991, 7:20, Pre-breakfast blood glucose measurement, 110
+
+09-03-1991, 7:20, Regular insulin dose, 009
+
+09-03-1991, 7:20, NPH insulin dose, 016
+
